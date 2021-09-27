@@ -1,0 +1,2 @@
+Das Spiel wird über index.html gestartet
+Steuerung des Flugzeugs erfolgt mit den Pfeiltasten, schiessen mit der Leertaste
